@@ -2,7 +2,12 @@
   Projeto de Pradões de Projetos de Sistemas
 
 # Descrição
- aaaa
+<<<<<<< HEAD
+ aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+=======
+eta
+>>>>>>> ed647977563803f754d50922959c7ea2dba10f2a
 
 
 # Grupo
