@@ -1,4 +1,4 @@
-# Sherwa
+﻿# Sherwa
   Projeto de Pradões de Projetos de Sistemas
 
 # Grupo
@@ -6,3 +6,15 @@
   - Igor Almeida
   - Isis Moraes
   - Vitor Henrique
+
+# Tela Principal
+
+
+
+# Tela de Cadastro e consulta
+
+
+
+# Tela de Insert
+
+
